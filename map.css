@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #0b0f1a;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  padding: 20px;
+  background: #111a2b;
+  margin: 0;
+}
+
+.map-container {
+  width: 90%;
+  max-width: 900px;
+  margin: 30px auto;
+  border: 3px solid #1e90ff;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.map-container iframe {
+  width: 100%;
+  height: 450px;
+  border: 0;
+}
+
+.info {
+  width: 80%;
+  margin: 20px auto;
+  padding: 20px;
+  background: #111a2b;
+  border-radius: 10px;
+}
+
+.flex {
+  display: flex;
+}
