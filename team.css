@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  p {
+    color: gray;
+  }
+}
+
+.second {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  p {
+    color: gray;
+  }
+
+  h2 {
+    font-size: 40px;
+  }
+}
