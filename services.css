@@ -1,0 +1,10 @@
+body{
+    width: 45;
+    height: 45;
+    box-sizing: border-box;
+}
+img{
+    width: 35;
+    height: 35;
+    display: flex;
+}
